@@ -1,0 +1,2 @@
+Result after addition:
+Radius: 7.93585, Angle (in degree): 39.3851
